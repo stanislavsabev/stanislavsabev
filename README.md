@@ -4,7 +4,7 @@
 ## Under construction ...
 
 
-<h3 align="left">Language Stats</h3>
+<h3 align="left">Stats</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanislavsabev&langs_count=10&theme=algolia&layout=compact&exclude_repo=github-readme-stats,stanislavsabev.github.io)](https://github.com/anuraghazra/github-readme-stats)
 <br>
